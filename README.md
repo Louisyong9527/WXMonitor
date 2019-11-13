@@ -26,7 +26,7 @@ pip3 install -r requirements.txt
 在本地 cmd 中跳转项目目录下，运行:  
 
 ```
-wxdemo.py
+python wxdemo.py
 ```
 
 第一次运行会跳出二维码，扫码登录。如输出日志中打印成：『登录成功』，则表示运行成功。  
